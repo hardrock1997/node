@@ -1,0 +1,13 @@
+{
+  "env": {
+    "node": true,
+    "es6": false
+  },
+  "parserOptions": {
+    "sourceType": "script"
+  },
+  "rules": {
+    "import/no-commonjs": "off",
+    "no-warning-comments": "off"
+  }
+}
